@@ -27,7 +27,7 @@ Please perform the following tasks in Python using the *delays_2018.csv*, *delay
 3. Display a list of all Tennessee airports that appear in the dataset.
 4. Import the coordinates dataset and merge it with the existing dataset.  Plot the coordinates of all airports on a map (hint: use Matplotlib and Basemap).
 5. Display the number of diverted flights for each carrier-airport pair.
-6. Display how many arrivals into JFK in 2019 encountered both weather and carrier delays?
+6. Display how many arrivals into JFK in 2019 encountered either weather or carrier delays (or both)?
 7. Display the airline with the most flight cancellations as a percentage of total arriving flights.
 8. Determine the overall average number of delays per airport.
 9. Display the three carriers with the lowest number of delayed flights.
